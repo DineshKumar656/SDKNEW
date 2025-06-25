@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -75,3 +76,13 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-trick
 =======
 # dineshkumarportfolio
 >>>>>>> 48d488c010559e5e9a690fb0bac4c3395cef7b82
+=======
+# Dinesh Kumar Portfolio
+
+This is my personal portfolio website built with [framework you used].
+
+Features:
+- Clean, responsive design
+- Projects showcase
+- Contact information
+>>>>>>> 4399d71ac47ebf59f99fe1556534179e770ffdde
