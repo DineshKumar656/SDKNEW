@@ -103,6 +103,7 @@ const Skills = () => {
         { name: "Communication", level: 90 },
         { name: "Presentation", level: 88 },
         { name: "Problem Solving", level: 92 },
+        { name: "Analytical Skills", Level: 50},
       ]
     }
   });
